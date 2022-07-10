@@ -12,10 +12,10 @@ This app has three operations:
 ---
 - ***show [filename]***
 
-    Shows the contents of reminder file *filename*. When filename equals 'all', a list with all reminders is printed.
+    Shows the contents of *filename*. When filename equals 'all', a list with all reminders is printed.
 
 ---
 
 - ***delete [filename]***
 
-    Deletes the reminder after confirmation.
+    Deletes the *filename* after confirmation.
